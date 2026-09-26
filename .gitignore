@@ -17,7 +17,7 @@ GRAINTCP_*
 
 # Cloudflare Workers
 .wrangler/
-.wrangler.toml
+wrangler.toml
 .wrangler*
 wrangler-install.log
 
