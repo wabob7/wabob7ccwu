@@ -1,8 +1,9 @@
-name = "v20251104"
+#wrangler.toml
+name = "autumn-wave-7d93"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-#[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+[[kv_namespaces]]
+binding = "KV"			#KV绑定名默认不可修改
+id = "d240ef8d625e403085eb42ee72195a5b"				#KV数据库id
