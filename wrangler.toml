@@ -1,8 +1,8 @@
-name = 'holy-dawn-fd68'
+name = "v20251104"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-[[kv_namespaces]]
-binding = "KV"			#KV绑定名默认不可修改
-id = "076e345512de4c99af82c4b01b842c7a"				#KV数据库id
+#[[kv_namespaces]]
+#binding = "KV"			#KV绑定名默认不可修改
+#id = ""				#KV数据库id
