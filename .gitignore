@@ -17,6 +17,7 @@ GRAINTCP_*
 
 # Cloudflare Workers
 .wrangler/
+.wrangler*
 wrangler-install.log
 
 # IDE
